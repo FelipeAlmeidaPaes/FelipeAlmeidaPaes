@@ -1,16 +1,15 @@
-### Hi there 👋
+# Felipe Almeida
 
-<!--
-**FelipeAlmeidaPaes/FelipeAlmeidaPaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou desenvolvedor frontend com ênfase em tecnologias que utilizam Javascript.
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Almeida-4169E1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-de-almeida-paes/)](https://www.linkedin.com/in/felipe-de-almeida-paes/) 
+[![Gmail Badge](https://img.shields.io/badge/-fpaes.dev@gmail.com-4169E1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fpaes.dev@gmail.com)](mailto:fpaes.dev@gmail.com)
 
-Here are some ideas to get you started:
+[![Site Badge](https://img.shields.io/badge/-Felipe%20Almeida-4169E1?style=flat-square&logo=google%20chrome&logoColor=white&link=https://fpaes.herokuapp.com/)](https://fpaes.herokuapp.com/)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :heart: Apaixonado por tecnologia e desenvolvimento
+- :telescope: Atualmente trabalho na Mc Digital
+- :mortar_board: Estou aprendendo Typescript
+
+Nos meus tempos livres gosto de assistir filmes (:tv:), ler(:book:) e ouvir música (:musical_note:)
+
