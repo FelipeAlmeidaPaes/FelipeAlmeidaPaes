@@ -7,7 +7,7 @@ Olá! Sou desenvolvedor frontend com ênfase em tecnologias que utilizam Javascr
 [![Site Badge](https://img.shields.io/badge/-Felipe%20Almeida-4169E1?style=flat-square&logo=google%20chrome&logoColor=white&link=https://fpaes.herokuapp.com/)](https://fpaes.herokuapp.com/)
 
 - :heart: Apaixonado por tecnologia e desenvolvimento
-- :telescope: Atualmente trabalho na Mc Digital
+- :telescope: Atualmente trabalho na Beijaflore Brasil
 - :mortar_board: Estou aprendendo Typescript
 
 Nos meus tempos livres gosto de assistir filmes (:tv:), ler(:book:) e ouvir música (:musical_note:)
